@@ -1,6 +1,6 @@
 {
   "name": "usuario/nombre-del-proyecto",
-  "description": "Descripción del proyecto",
+  "description": "Descrdipción del proyecto",
   "require": {
     "php": ">=7.4"
   },
