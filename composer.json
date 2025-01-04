@@ -1,0 +1,11 @@
+{
+  "name": "usuario/nombre-del-proyecto",
+  "description": "Descripción del proyecto",
+  "require": {
+    "php": ">=7.4"
+  },
+  "scripts": {
+    "test": "vendor/bin/phpunit"
+  },
+  "license": "proprietary"
+}
